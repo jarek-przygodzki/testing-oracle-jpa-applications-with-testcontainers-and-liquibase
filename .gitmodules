@@ -1,0 +1,4 @@
+[submodule "docker-images/wnameless/docker-oracle-xe-11g"]
+	path = docker-images/wnameless/docker-oracle-xe-11g
+	url = git@github.com:wnameless/docker-oracle-xe-11g.git
+	branch = master
